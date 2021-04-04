@@ -4,4 +4,4 @@
 
 母音の位置
 
-![](pages/realforce-0.jpg)
+![](realforce-0.jpg)
